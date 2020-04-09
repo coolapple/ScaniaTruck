@@ -1,7 +1,7 @@
 # Smart Air Pressure System Diagnostics System for Scania Truck
 
 
-we applied different weights to loss function to minimize cost of service. Overall, we found the best threshold to achieve minimum cost of service at 15600 on the test set. We also validate our algorithm using K fold cross validation to evaluate robustness of our models. Overall, we are comfortable with our algorithm.
+We applied different weights to loss function to minimize cost of service. Overall, we found the best threshold to achieve minimum cost of service at 15600 on the test set. We also validate our algorithm using K fold cross validation to evaluate robustness of our models. Overall, we are comfortable with our algorithm.
 Steps for the implementation:
 
 1. Integrated data from multiple AWS SQL tables.
